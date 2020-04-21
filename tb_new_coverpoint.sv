@@ -7,8 +7,9 @@
 //  
 //	Description:
 // 	------------------------------------
-//  This test the Vending Machine Module.
-//  It has several basic test cases.
+//  The bins track the coverpoints in the cg covergroup
+//	This test bench tests the Vending Machine Module with directed cases	
+//  
 //////////////////////////////////////////////////////////////////////////
 
 module tb_vm;
